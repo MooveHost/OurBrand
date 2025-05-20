@@ -58,7 +58,3 @@ brand@moove.host
 -   If in doubt, ask.
 - You can read more in our [licensing guide](https://github.com/MooveHost/OurBrand/blob/main/LICENSE.md).
     
-
-----------
-
-If you need a sample "Do/Don’t" visual or want to add more detailed usage scenarios, lmk!
